@@ -1,2 +1,2 @@
-#Contact Book App
-<sub>Simple Contact Book OOP, with create, delete and edit functions</sub>
+# ContactBookApp
+Simple Contact Book App OOP, with file in and file out with create, read, edit and delete function
