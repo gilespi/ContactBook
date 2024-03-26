@@ -1,1 +1,2 @@
-Contact Book App OOP, file in file out with CRUD functions
+##Contact Book App
+Simple Contact Book OOP, with create, delete and edit functions
