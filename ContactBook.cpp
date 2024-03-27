@@ -96,7 +96,7 @@ void ContactBook::loadContacts() {
 		if (pos != string::npos) {
 			string name = line.substr(0, pos);
 			string phone = line.substr(pos + 1);
-			string address = line.substr(pos + 5);
+			string address = line.substr(pos + 1);
 			string email = line.substr(pos + 1);
 			contacts.emplace_back(name, phone, address, email);
 		}
